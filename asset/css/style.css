@@ -1,0 +1,41 @@
+#cajaencebollado {
+    height: 80px;
+	width: 340px;
+	padding: 20px 5px 100px 30px;
+	border-radius: 25px;
+	border: 3px dotted green;
+	border-top-width: 10px;
+	border-right-color: orange;
+	border-left-style: double;
+	border-bottom: blue 15px dashed; 
+	background-image: url("https://gifsanimados.de/img-gifsanimados.de/c/comida/cocinando-en-wok.gif");
+
+}
+
+#encabezadoencebollado{
+    padding: 30px 50px 30px 50px;
+    border-radius: 25px;
+    border: 3px dotted red;
+
+}
+
+#recetaencebollado{
+    padding: 30px 50px 30px 50px;
+    border-radius: 25px;
+    border: 3px dotted green;
+
+}
+
+#preparacionencebollado{
+    padding: 30px 50px 30px 50px;
+    border-radius: 25px;
+    border: 3px dotted yellow;
+    
+}
+
+#servirseencebollado{  
+    padding: 30px 50px 30px 50px;
+    border-radius: 25px;
+    border: 3px dotted rgb(158, 24, 12);
+    
+}
